@@ -1,9 +1,6 @@
 .cache
 public
 
-dist/*
-!dist/index.html
-
 # Logs
 logs
 *.log
@@ -86,7 +83,7 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-# dist
+dist
 
 # Gatsby files
 .cache/
